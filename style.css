@@ -31,6 +31,7 @@
     color: white;
     padding: 5px 0;
     font-size:x-large;
+    border: 2px solid;
 }
 .nave-links li a:hover{
     color: green;
